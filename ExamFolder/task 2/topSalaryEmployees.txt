@@ -1,3 +1,0 @@
-{"first_name":"Amelia","second_name":"Clark","salary":2600,"experience":1,"age":20}
-{"first_name":"Adam","second_name":"Johns","salary":2500,"experience":3,"age":21}
-{"first_name":"James","second_name":"Taylor","salary":2700,"experience":2,"age":22}
